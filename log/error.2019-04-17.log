@@ -1,0 +1,1 @@
+slow sql 16 millis. select productcat0_.category_id as category1_0_, productcat0_.category_name as category2_0_, productcat0_.category_type as category3_0_, productcat0_.create_time as create_t4_0_, productcat0_.update_time as update_t5_0_ from product_category productcat0_[]
